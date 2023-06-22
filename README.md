@@ -2,7 +2,7 @@
 
 ### Sina Mansour L.
 
-The digital content associated with different contributions to OHBM 2023 and OHBM Brainhack is stored in this repository.
+The digital content associated with different contributions to OHBM 2023 and OHBM Brainhack is hosted in this repository.
 
 ---
 

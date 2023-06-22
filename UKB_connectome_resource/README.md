@@ -6,3 +6,5 @@
 #### *OHBM 2023*
 
 Here you may find relevant content to the OHBM 2023 poster presentation above:
+
+[![Check the poster](UKB_connectome_resource/Poster.min.jpg)](UKB_connectome_resource/Poster.pdf)

@@ -7,4 +7,4 @@
 
 Here you may find relevant content to the OHBM 2023 poster presentation above:
 
-[![Check the poster](UKB_connectome_resource/Poster.min.jpg)](UKB_connectome_resource/Poster.pdf)
+[![Check the poster](https://sina-mansour.github.io/OHBM_2023/UKB_connectome_resource/Poster.min.jpg)](https://sina-mansour.github.io/OHBM_2023/UKB_connectome_resource/UKB_connectome_resource/Poster.pdf)

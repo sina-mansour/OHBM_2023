@@ -3,7 +3,7 @@
 
 ### Sina Mansour L., Maria A. Di Biase, Robert E. Smith, Andrew Zalesky, Caio Seguin
 
-#### *OHBM 2023*
+#### *OHBM 2023* (Poster #337)
 
 Here you may find relevant content to the OHBM 2023 poster presentation above:
 
